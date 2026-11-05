@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-workpapers-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-workpapers",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_workpapers_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/workpapers.md",
+  "presentationPlan": "projects/accounting/flutter/workpapers.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
